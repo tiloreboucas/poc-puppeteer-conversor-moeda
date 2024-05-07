@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^22.8.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "poc-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "money",
+    "conversion",
+    "scraper",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Web scraper with Puppeteer for money conversion"
+}
